@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/ewilde/terraform-provider-kibana.svg?branch=master)](https://travis-ci.org/ewilde/terraform-provider-kibana)
 
+Forked from https://github.com/ewilde/terraform-provider-kibana to test deployments to terraform registry.
+
 Terraform Provider
 ==================
 
